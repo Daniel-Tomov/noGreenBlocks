@@ -14,4 +14,4 @@ Commands:
 /nogreenblocks reload     Reloads the config
 
 
-I edited the code from a different plugin's source code.
+I reused the code from a different plugin's source code.
