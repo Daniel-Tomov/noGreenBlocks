@@ -12,3 +12,6 @@ Commands:
 /nogreenblocks help     Shows help
 
 /nogreenblocks reload     Reloads the config
+
+
+I edited the code from a different plugin's source code.
