@@ -5,13 +5,10 @@ Tested server version: 1.16.1
 
 With this plugin, stepping on any Green Blocks will kill you
 
-Commands:
+# Commands:
 
 /nogreenblocks toggle     Starts the game
 
 /nogreenblocks help     Shows help
 
 /nogreenblocks reload     Reloads the config
-
-
-I reused the code from a different plugin's source code.
